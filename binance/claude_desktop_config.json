@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\Admin\\OneDrive\\Desktop\\PROJECTS\\MCP\\weather",
+        "run",
+        "weather.py"
+      ]
+    },
+    "binance":{
+      "command": "uv",
+      "args":[
+        "--directory",
+        "C:\\Users\\Admin\\OneDrive\\Desktop\\PROJECTS\\MCP\\binance",
+        "run",
+        "binance.py"
+      ]
+    }
+  }
+}
+
+
