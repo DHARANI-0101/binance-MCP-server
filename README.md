@@ -15,10 +15,10 @@ A **FastMCP (Model Context Protocol) server** that provides real-time and cached
 
 ## 💰 BTC Price, 24-Hour Change & Executive Crypto Summary
 
-![Claude Screenshot 1](screenshots/CLAUDE%201.png)
-![Claude Screenshot 2](screenshots/CLAUDE%202.png)
-![Claude Screenshot 3](screenshots/CLAUDE%203.png)
-![Claude Screenshot 4](screenshots/CLAUDE%204.png)
+![Claude Screenshot 1](screenshots/CLAUDE%1.png)
+![Claude Screenshot 2](screenshots/CLAUDE%2.png)
+![Claude Screenshot 3](screenshots/CLAUDE%3.png)
+![Claude Screenshot 4](screenshots/CLAUDE%4.png)
 
 ## 💰 BTC Price Fetched via MCP Inspector
 
