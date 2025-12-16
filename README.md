@@ -10,6 +10,7 @@ A **FastMCP (Model Context Protocol) server** that provides real-time and cached
 - 🧩 **Structured MCP tools, prompts, and resources**
 
 # 📸 Screenshots
+
 ## 💰 BTC Price, 24-Hour Change & Executive Crypto Summary
 
 <p align="center">
