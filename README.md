@@ -8,3 +8,4 @@ A **FastMCP (Model Context Protocol) server** that provides real-time and cached
 - ⚡ **TTL-based caching**
 - 📝 **Activity logging**
 - 🧩 **Structured MCP tools, prompts, and resources**
+- 🤖 **Claude integration** for AI-powered crypto analysis via MCP
