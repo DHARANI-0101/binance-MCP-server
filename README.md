@@ -12,7 +12,7 @@ A **FastMCP (Model Context Protocol) server** that provides real-time and cached
 - ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/CLAUDE 1.png" width="700">
+  <img src="binance/screenshots/CLAUDE 1.png" width="700">
 </p>
 
 
